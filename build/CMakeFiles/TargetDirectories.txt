@@ -1,0 +1,3 @@
+G:/test_project/my_sort_algorithm/build/CMakeFiles/app.dir
+G:/test_project/my_sort_algorithm/build/CMakeFiles/edit_cache.dir
+G:/test_project/my_sort_algorithm/build/CMakeFiles/rebuild_cache.dir

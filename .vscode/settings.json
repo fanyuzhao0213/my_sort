@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "select_sort.h": "c",
+        "bubble_sort.h": "c",
+        "stdint.h": "c",
+        "common.h": "c",
+        "insert_sort.h": "c",
+        "shell_sort.h": "c"
+    }
+}
